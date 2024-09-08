@@ -1,8 +1,9 @@
 import React from 'react';
-import {StyleSheet, SafeAreaView, ScrollView, View} from 'react-native';
+import { StyleSheet, SafeAreaView, ScrollView, View } from 'react-native';
 import Main from './components/Main';
 
 export default function App(): JSX.Element {
+
   return (
     <>
       <SafeAreaView>
